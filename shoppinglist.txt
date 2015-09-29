@@ -5,3 +5,6 @@ miel
 cereaux
 pain 
 fromage
+poivrons
+pates
+
